@@ -10,10 +10,11 @@ Program ini diimplementasikan dalam dua bahasa pemrograman:
 2. **Bahasa Python**
 
 ## Daftar Gambar yang Diunggah
-**
 ** Menampilkan struktur kode dalam bahasa C beserta hasil uji coba perhitungan nilai di terminal.
-** 
+** ![alt text](https://github.com/lmjuantangkalalo/Tugas-UTS-py-dan-c/blob/main/aplikasi%20studypoint%20C.png)
 ** Menampilkan struktur kode dalam bahasa Python beserta hasil uji coba perhitungan nilai di terminal.
+** ![alt text](https://github.com/lmjuantangkalalo/Tugas-UTS-py-dan-c/blob/main/aplikasi%20studypoint%20Py.png)
+
 
 ## Fitur Utama Program
 * Input nama siswa, nilai tugas, nilai UTS, nilai ATS, dan target nilai yang ingin dicapai.
